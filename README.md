@@ -1,4 +1,4 @@
-# Sales Triggers Taxonomy
+﻿# Sales Triggers Taxonomy
 
 A strategic framework for identifying, scoring, and messaging B2B sales triggers. Timing is everything in outbound. Learn how to map a buyer's event directly to the downstream pain your product solves.
 
@@ -6,12 +6,11 @@ A strategic framework for identifying, scoring, and messaging B2B sales triggers
 
 | File | What it does |
 |------|-------------|
-| `SKILL.md` | Orchestrator and routing logic |
-| `trigger-identification-framework.md` | Categorizing signals (Inbound, Bridgebound, Outbound, 3rd-Party) |
-| `trigger-to-message-mapper.md` | Converting triggers into compelling premises |
-| `trigger-detection-automation.md` | Infrastructure for listening to market signals |
-| `trigger-prioritization-scoring.md` | "Time to Pain" (TTP) scoring model |
-| `ECOSYSTEM.md` | Cross-repo connectivity map |
+| `.agents/skills/SKILL.md` | Orchestrator and routing logic |
+| `.agents/skills/trigger-identification-framework.md` | Categorizing signals (Inbound, Bridgebound, Outbound, 3rd-Party) |
+| `.agents/skills/trigger-to-message-mapper.md` | Converting triggers into compelling premises |
+| `.agents/skills/trigger-detection-automation.md` | Infrastructure for listening to market signals |
+| `.agents/skills/trigger-prioritization-scoring.md` | "Time to Pain" (TTP) scoring model |
 
 ## Prerequisites
 
@@ -41,17 +40,18 @@ want to reduce tool sprawl through better-engineered GTM systems.
 
 ---
 
-## From the Forma Nôrden GTM Library
+## From the Forma NÃ´rden GTM Library
 
-This is a free resource from the Forma Nôrden open-source GTM library, built by
+This is a free resource from the Forma NÃ´rden open-source GTM library, built by
 [Yananai A. Chiwuta](https://yananaichiwuta.com/), GTM engineer and founder of
-[Forma Nôrden](https://formanorden.com/).
+[Forma NÃ´rden](https://formanorden.com/).
 
 - [Open-source GTM systems](https://github.com/forma-norden) - all repos in the library  
 - [GTM engineering blog](https://formanorden.com/blog/) - strategy, systems, and outbound deep-dives  
 - [All resources](https://formanorden.com/resources/) - guides, frameworks, and templates  
 
 If this saves you time, star the repo and follow
-[Forma Nôrden on LinkedIn](https://www.linkedin.com/company/formanorden/).
+[Forma NÃ´rden on LinkedIn](https://www.linkedin.com/company/formanorden/).
 
-Built by [Forma Nôrden](https://formanorden.com/) - GTM engineering for B2B companies.
+Built by [Forma NÃ´rden](https://formanorden.com/) - GTM engineering for B2B companies.
+
